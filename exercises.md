@@ -34,3 +34,14 @@
 - However, these can all come with their problems, and occasionally it is better to write on a computer or in a more private setting. This is especially true during editing, as that process requires a clearer mind and more concentration. There are also times when writing with a word processor can still allow me to write intuitively, it really depends. Occasionally the level of distraction that a public setting provides can be too much to really focus.
 - I generally like to make use of all the tools at my disposal, and am always open to writing in different contexts, with different methods and using different approaches. 
 - When experimenting with format, such as page size, font changes or different styles, a word processor can help me to realise these ideas in a more concrete way, so pen and paper can often constrain this type of experimentation.
+
+
+## Week 2
+
+### Defining Electronic Literature
+
+- What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+- How are those elements meaningful?
+- How are the works read differently from print literature?
+- How is electronic literature different from print literature?
+- What are the qualities of the works we might consider as qualities of electronic literature
