@@ -58,20 +58,34 @@ Taroko Gorge: The falling texts signifies natural imagery of waterfalls or falli
 
 The Gathering Cloud: The piece, although technically a coherent poem that can be read in a straightforward fashion from start to finish, is constantly interrupting your reading. The moving and overlaping imagery, the prompts of text boxes, and the general messiness of the page makes it very difficult to focus on one thing at a time. This communicates a feeling of instability, of constant movement and change. It reflects a rapidly changing world that is moving to quickly for us make sense of much of it, and constaintly feels out of our control.
 
-First draft of the revolution: 
+First draft of the revolution: The mechanic of having to alter the text of letters, accompanied by the character's inner thoughts, as a requirement to move the story forward, put the player into the mindset of the characters. Similar to Shade, there is a frustration that is created by being forced to constantly click through options to progress the game. It's also similar to The Gathering Cloud, in that it's constantly interupting our reading and intruding on any kind of natural flow. This makes sense given the context of the story, as it's about creating a 'draft', and represents the instability and uncertainty the characters are currently facing.  
 
 Shade: The game is notoriously frustrating, especially for those inexperienced with interactive fiction. It induces feelings of entrapment, confusion and anger. This is reflected in the game's ending, wherein the main character was basically doomed from the beginning. 
 
 #### How are the works read differently from print literature?
+
+- Higher degree of interactivity
+- Pace and timing is often decided for us, for instance in Taroko Gorge where there is a constant rhythm with which we are presented with each line. 
+- Not having any physical sense of how long a piece is, or what shape it's going to take. Especially for something like Shade, it's very difficult to know how long the actual piece is going to be. 
+- Rarely a straightforward path to read/experience the piece, each guides its audience on non-conventional or even randomly generated routes through the story. 
+
 #### How is electronic literature different from print literature?
+
+This is a difficult question, as there is hardly a throughline between different electronic pieces to connect each of them together. Interactivity is an obvious one, but there is also randomness, as well as some sort of visual element that plays out on the screen. Other than that, I believe that the act of putting something on a computer screen and calling it electronic literature in itself says something, it creates an act of electronic literature by it declaring itself so. Similar to Marcel Duchamp placing a urinal in an art gallery is in itself saying something about the nature of the work, and the nature of art. 
+
 #### What are the qualities of the works we might consider as qualities of electronic literature
+
+- Randomness
+- User interaction
+- Visual movement on the screen
+- Lack of clear boundaries or indications of scale 
 
 ### Constraint and Process
 
-Edit the `exercises.md` page in your digital writing folio and add the following questions with your answers to the questions:
+#### Create a constraint (a restriction on your writing such as not using the letter "e" or a set number of syllables)
 
-- Create a constraint (a restriction on your writing such as not using the letter "e" or a set number of syllables)
-- Create a process (a process for creating writing such as picking the third word of each page of a book)
+
+#### Create a process (a process for creating writing such as picking the third word of each page of a book)
 
 ### Taroko Gorge(s)
 
