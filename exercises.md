@@ -41,7 +41,26 @@
 ### Defining Electronic Literature
 
 - What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+
+Taroko Gorge: Descending, generated text that goes on infinitely. 
+
+The Gathering Cloud: A series of poems integrated with various moving images that overlap with and interact with the words on the page. Hovering your mouse over certain words prompts a text box to appear. 
+
+First draft of the revolution: Interactive hyperlink story that requires you to choose specific options to keep the narrative moving. 
+
+Shade: Interactive fiction piece where you input commands to continue the story. The 'correct' commands are often non-obvious and take a lot of trial and error to figure out. 
+
 - How are those elements meaningful?
+These elements have a varying degree of interactivity, ranging from Taroko Gorge with plays out automatically without any real input from the reader, to Shade, which requires not only constant input but a lot of thought and effort to conclude the story. These cross a wide spectrum of what can be considered "electronic literature", and raises questions about the loose definitions of the genre. 
+
+Taroko Gorge: The falling texts signifies natural imagery of waterfalls or falling leaves, and the random generative nature of the text invokes a somewhat 'natural' feel to the poem, as though your discovering these unique words out in the wilderness. 
+
+The Gathering Cloud: The piece, although technically a coherent poem that can be read in a straightforward fashion from start to finish, is constantly interrupting your reading. The moving and overlaping imagery, the prompts of text boxes, and the general messiness of the page makes it very difficult to focus on one thing at a time. This communicates a feeling of instability, of constant movement and change. It reflects a rapidly changing world that is moving to quickly for us make sense of much of it, and constaintly feels out of our control.
+
+First draft of the revolution: 
+
+Shade: The game is notoriously frustrating, especially for those inexperienced with interactive fiction. It induces feelings of entrapment, confusion and anger. This is reflected in the game's ending, wherein the main character was basically doomed from the beginning. 
+
 - How are the works read differently from print literature?
 - How is electronic literature different from print literature?
 - What are the qualities of the works we might consider as qualities of electronic literature
