@@ -45,3 +45,18 @@
 - How are the works read differently from print literature?
 - How is electronic literature different from print literature?
 - What are the qualities of the works we might consider as qualities of electronic literature
+
+### Constraint and Process
+
+Edit the `exercises.md` page in your digital writing folio and add the following questions with your answers to the questions:
+
+- Create a constraint (a restriction on your writing such as not using the letter "e" or a set number of syllables)
+- Create a process (a process for creating writing such as picking the third word of each page of a book)
+
+### Taroko Gorge(s)
+
+Select a remixed [Taroko Gorge](https://nickm.com/taroko_gorge/) and edit the `exercises.md` page in your digital writing folio and add the following questions with your answers to the questions:
+
+- What aspects of the remix are the same?
+- What aspects of the remix are different?
+- Is the remix successful (why or why not)?
