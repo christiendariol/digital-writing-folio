@@ -12,3 +12,8 @@
 
 ### Oulipo
 
+## Week 3
+
+### Beyond Taxonomy: Digital Poetics and the Problem of Reading
+
+### Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier
