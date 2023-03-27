@@ -94,3 +94,16 @@ Select a remixed [Taroko Gorge](https://nickm.com/taroko_gorge/) and edit the `e
 - What aspects of the remix are the same?
 - What aspects of the remix are different?
 - Is the remix successful (why or why not)?
+
+
+## Week 5
+
+### Writing Hypertext Fiction
+- How is it different from fiction?
+It's functionally different in that it requires choices to be made by the reader to influence narrative outcomes. These outcomes may be meaningful or not (such as in Depression Quest), but the fact that the reader is being given the option in the first place to make decisions re-orientates the focus of the reader. 
+- How is it different from games?
+There isn't necessarily a challenge or puzzle to be solved, and there may not be a likelihood of failure, at which point you'd have to go back and start again. 
+- How do you plan fiction?
+Finding an image, scene or character that I find interesting and finding a way to present that in an interesting way. This will naturally bring up further ideas and characters. From then it's a process of following the path of least resistance in where the story would go beyond that point. At some point I would need to find a direction/ending for the story. 
+- How could you plan hyptertext fiction?
+Probably in a similar fashion, start with an idea or character and begin writing. It'd probably be easier to just try and write a story from start to finish, then go back and think about how different parts of the story could go differently. Then re-writing the same story with those altogether. 
