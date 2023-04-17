@@ -26,3 +26,5 @@
 - The discussion of challenging the user experience also reminded me of the Emerson reading ("Indistinguishable from Magic") from week 3, which discussed how digital literature opens up user interfaces and exposes underlying software in a way that's often hidden or obscured. 
 
 ### The Paradox of Poetic Gaming
+
+- The line about "the poet cannot determine the exact path each player/reader will take" really interests me. The idea that with digital poetry like Nelson's, thre is so much fluidity regarding pace, rhythm, structure etc,. things that are fundamental elements of poetic construction. It does reach a point for me where I'm actually not sure whether I can consider his work truly 'poetry', if there is so much that is decided by the user. 
