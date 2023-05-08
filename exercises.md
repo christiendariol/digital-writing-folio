@@ -113,7 +113,7 @@ Probably in a similar fashion, start with an idea or character and begin writing
 
 ### Who is the audience for your developed creative work?
 
-Being centred around Melbourne's tram network, the intended audience will be cross between Melbournians interested in their city, and those interested by public transport/trams. The former will be the more prominent audience, making my piece quite localised. 
+Being centred around Melbourne's tram network, the intended audience will be cross between Melbournians interested in their city, and those interested by public transport/trams. The former will be the more prominent audience, making my piece quite localised. However, I don't feel there is a lot of assumed knowledge in my piece. Geographic of a Melbourne artefact
 
 ### How does having an audience in mind affect the development of your work?
 
