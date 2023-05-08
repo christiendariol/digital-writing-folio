@@ -28,3 +28,9 @@
 ### The Paradox of Poetic Gaming
 
 - The line about "the poet cannot determine the exact path each player/reader will take" really interests me. The idea that with digital poetry like Nelson's, thre is so much fluidity regarding pace, rhythm, structure etc,. things that are fundamental elements of poetic construction. It does reach a point for me where I'm actually not sure whether I can consider his work truly 'poetry', if there is so much that is decided by the user. 
+
+## Week 9
+
+### Excavating Logics of White Supremacy in Electronic Literature
+
+Ikeda's analysis was a highly inciteful take on the nature of algorithms as "cultural gatekeeper(s)". I've always been interested in the way that technology and digital entertainment has been shaped by unconcious processes and the way it has carried in societal baggage like the track marks of a muddy shoe brought into the house. The piece challenges strongly held beliefs about the purported 'objectivity' of database and search engines. As Ikeda calls it, there is a "postracial fantasy of colorblindness" within the tech industry. This colourblindness often manifests as the erasure of non-white identities and the reinforcement of societal norms. 
