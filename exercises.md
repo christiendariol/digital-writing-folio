@@ -107,3 +107,14 @@ There isn't necessarily a challenge or puzzle to be solved, and there may not be
 Finding an image, scene or character that I find interesting and finding a way to present that in an interesting way. This will naturally bring up further ideas and characters. From then it's a process of following the path of least resistance in where the story would go beyond that point. At some point I would need to find a direction/ending for the story. 
 - How could you plan hyptertext fiction?
 Probably in a similar fashion, start with an idea or character and begin writing. It'd probably be easier to just try and write a story from start to finish, then go back and think about how different parts of the story could go differently. Then re-writing the same story with those altogether. 
+
+
+## Week 9
+
+### Who is the audience for your developed creative work?
+
+Being centred around Melbourne's tram network, the intended audience will be cross between Melbournians interested in their city, and those interested by public transport/trams. The former will be the more prominent audience, making my piece quite localised. 
+
+### How does having an audience in mind affect the development of your work?
+
+This will allow me to develop distinct themes and focuses out of the work. At the moment, my piece is a little broad in its thematic meaning, and I hope to gradually narrow in on specifics as the it's development further. 
