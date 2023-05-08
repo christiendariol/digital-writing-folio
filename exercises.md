@@ -109,7 +109,7 @@ Finding an image, scene or character that I find interesting and finding a way t
 Probably in a similar fashion, start with an idea or character and begin writing. It'd probably be easier to just try and write a story from start to finish, then go back and think about how different parts of the story could go differently. Then re-writing the same story with those altogether. 
 
 
-## Week 9
+## Week 10
 
 ### Who is the audience for your developed creative work?
 
