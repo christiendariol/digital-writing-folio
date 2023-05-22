@@ -11,6 +11,8 @@ Although I was pleased to know that 'Shade' was intended to be deliberately obtu
 
 ### Kissing the Steak: The Poetry of Text Generators
 
+I initially found it very difficult to wrap my head around the concept of text generators as the reading portrayed them. I had to go and do my own research into 'Syntext' and its authors for more context. It was really only after getting to practice with remixes in class that I felt like I understood the concept of it. This was an enlightening experience all round, as I think my initial confusion around the idea reflected how new and different this form was. I'm excited about the possibilites of this form and what meanings it can impart. The reading was quite dense in this regard, but I enjoyed its analysis of how 'Syntext' worked to "deconstruct human language to find new meanings" (p. 77). I'm a big fan of language deconstructions and experimentations, and this opens up many opportunities to play with language and text generation that id never previously thought of. 
+
 ### Oulipo
 
 ## Week 3
