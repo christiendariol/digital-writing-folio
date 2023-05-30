@@ -3,8 +3,9 @@
 - [Readings](Readings.md)
 - [Exercises](exercises.md)
 
-# In Class Experiments
+# In Class Experiments and Reflections
+- [Github.io Website] (github.io Website)
 
 
 
-# Folio Project Experiments
+# Folio Project Experiments 
