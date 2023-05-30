@@ -4,7 +4,7 @@
 - [Exercises](exercises.md)
 
 # In Class Experiments and Reflections
-- [Github.io Website] (github.io Website)
+- [Github.io Website] (practicewebsite.md)
 
 
 
