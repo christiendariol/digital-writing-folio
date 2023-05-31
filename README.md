@@ -12,3 +12,4 @@
 - [Glitch Remixes](glitchremixes.md)
 
 # Folio Project Experiments 
+- [Simple Website Practice](site-practice.md)
