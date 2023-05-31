@@ -1,3 +1,5 @@
+# Bitsy
+
 - [Bitsy Site](https://bitsygametest.netlify.app/)
 
 - [Github Repository](https://github.com/christiendariol/Bitsy-game)
