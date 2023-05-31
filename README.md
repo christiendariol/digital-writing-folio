@@ -9,5 +9,6 @@
 - [Bitsy Game](bitsygame.md)
 - [Inform7 Story](inform7.md)
 - [N+7](N+7.md)
+- [Glitch Remixes](glitchremixes.md)
 
 # Folio Project Experiments 
