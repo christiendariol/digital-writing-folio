@@ -12,4 +12,5 @@
 - [Glitch Remixes](glitchremixes.md)
 
 # Folio Project Experiments 
+- [Word Puzzles - First Folio Idea](Word Puzzles.md)
 - [Simple Website Practice](site-practice.md)
