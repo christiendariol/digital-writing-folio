@@ -1,4 +1,4 @@
-- Bitsy Site: <bitsygametest.netlify.app>
+- Bitsy Site: <[bitsygametest.netlify.app](https://bitsygametest.netlify.app/)>
 
 - [Github Repository](https://github.com/christiendariol/Bitsy-game)
 
