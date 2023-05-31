@@ -8,5 +8,6 @@
 - [Twine Story](twinestory.md)
 - [Bitsy Game](bitsygame.md)
 - [Inform7 Story](inform7.md)
+- [N+7](N+7.md)
 
 # Folio Project Experiments 
