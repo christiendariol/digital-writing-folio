@@ -7,6 +7,6 @@
 - [Github.io Website](practicewebsite.md)
 - [Twine Story](twinestory.md)
 - [Bitsy Game](bitsygame.md)
-- [Inform7 Story](inform7)
+- [Inform7 Story](inform7.md)
 
 # Folio Project Experiments 
