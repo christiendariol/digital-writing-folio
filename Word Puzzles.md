@@ -6,22 +6,27 @@ It's a series of riddles where the user has to guess the answer, usually a singl
 
 ## The Puzzles
 
-1. PUZZLE 1
+1. 
    The Capitals of Gdansk, Reykjavic and Everest
+   
    lead the way to a reverse top end of Nepal. 
    
 PAIR WITH
 
    The colour of leaves
+  
    depicted through 
+   
    a revolution genre. 
    
 ALSO WITH
 
    What do I show when
+   
    I am envious
+   
    #### Answer: "GREEN"
    
-2. WEFWEF
+2. 
    "Si si si!" says a 
    
