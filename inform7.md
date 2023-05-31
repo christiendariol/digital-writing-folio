@@ -1,3 +1,5 @@
+# Inform 7
+
 - [Github Link](https://github.com/christiendariol/Inform-7-Story/blob/main/example.inform/Source/story.ni)
 
 ## Reflection
