@@ -39,7 +39,7 @@ ALSO WITH
    
    The reverse phrase is more modest. 
    
-   ### Answer: "IS"
+   #### Answer: "IS"
    
    
 3. 
@@ -53,7 +53,7 @@ ALSO WITH
    
    look underneath you. 
    
-   ### Answer "THE"
+   #### Answer "THE"
    
    
 4. 
@@ -65,12 +65,12 @@ ALSO WITH
    
    Remove the plural. 
    
-   ### Answer: "COLOUR"
+   #### Answer: "COLOUR"
    
 5. 
    What of it?
    
-   ### Answer: "OF"
+   #### Answer: "OF"
    
 6. 
    The top of the vest
@@ -79,7 +79,7 @@ ALSO WITH
    
    onto a disgusting ale. 
    
-   ### Answer: "LEAVES"
+   #### Answer: "LEAVES"
    
    
    ### GREEN IS THE COLOUR OF LEAVES. 
