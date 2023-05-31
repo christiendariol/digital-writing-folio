@@ -7,4 +7,5 @@ The program itself was straightforward enough to use. I did have quite a few iss
 Albeit interesting, there was quite a bit I found frustrating about using Twine and getting certain elements to work. I look forward to exploring this further. 
 
 
-git submodule add <christiendariol/digital-writing-twine-2023>
+Link to repository: https://github.com/christiendariol/digital-writing-twine-2023
+
