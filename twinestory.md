@@ -1,4 +1,6 @@
-## Netlify link to Twine story:
+# Twine
+
+### Netlify link to Twine story:
 https://twinesitetest.netlify.app/
 
 ## Reflection
