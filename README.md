@@ -17,4 +17,6 @@
 - [Website Experiment 2](websiteexperiment.md)
 - [Website Experiment 3](website-experiment3.md)
 
-# Ongoing Folio Reflections
+# General Folio Reflections
+- [Ongoing Reflections on Folio](folio-reflections.md)
+- [Overall class reflection](class-reflection.md)
