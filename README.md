@@ -11,8 +11,10 @@
 - [N+7](N+7.md)
 - [Glitch Remixes](glitchremixes.md)
 
-# Folio Project Experiments 
+# Folio Project Experiments and Reflections
 - [Word Puzzles - First Folio Idea](wordpuzzles.md)
 - [Simple Website Practice](site-practice.md)
 - [Website Experiment 2](websiteexperiment.md)
 - [Website Experiment 3](website-experiment3.md)
+
+# Ongoing Folio Reflections
