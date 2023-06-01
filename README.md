@@ -15,3 +15,4 @@
 - [Word Puzzles - First Folio Idea](wordpuzzles.md)
 - [Simple Website Practice](site-practice.md)
 - [Website Experiment 2](websiteexperiment.md)
+- [Website Experiment 3](website-experiment3.md)
